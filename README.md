@@ -1,5 +1,5 @@
-WebJar for WEBJAR_NAME
+WebJar for Chained
 
 More info: http://webjars.org
 
-Upstream: WEBJAR_URL
+Upstream: http://www.appelsiini.net/projects/chained
