@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-chained</artifactId>
-    <version>0.9.4-SNAPSHOT</version>
+    <version>0.9.3-1-SNAPSHOT</version>
     <name>Chained</name>
     <description>WebJar for Chained</description>
     <url>http://webjars.org</url>
